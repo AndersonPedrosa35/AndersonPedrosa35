@@ -3,7 +3,7 @@
 
 - Estou procurando emprego [no momento] (https: // www .linkedin.com / in / anderson-pedrosa-carlos /)
 
-- 🌱 Eu estou estudando ** Back-end e NEXT.js **
+- 🌱 Eu estou estudando ** Back-end e NEXT.js na Trybe**
 
 - 🤝 Eu trabalhei em grupo no [App de Receitas] (https: // github. com / tryber / sd-010-b-project-recipes-app / tree / main-group-7)
 
