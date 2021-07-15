@@ -5,24 +5,57 @@
 
 - 🌱 Eu estou estudando ** Back-end e NEXT.js na Trybe**
 
-- 🤝 Eu trabalhei em grupo no [App de Receitas] (https: // github. com / tryber / sd-010-b-project-recipes-app / tree / main-group-7)
+- 🤝 Eu trabalhei em grupo no [App de Receitas] (https://github.com/tryber/sd-010-b-project-recipes-app/tree/main-group-7)
 
-- 👨‍💻 Meus repositórios [https://github.com/AndersonPedrosa35?tab=repositories](https:// github.com/AndersonPedrosa35?tab=repositories)
+- 👨‍💻 Meus repositórios (https://github.com/AndersonPedrosa35?tab=repositories)
 
 - Tenho conhecimento em ** React, Redux e Context API **
 
 - 📫 Fale comigo por aqui: ** https: //www.linkedin.com/in/anderson-pedrosa-carlos / **
 
-- 📄 Eu tenho experiência em [React, React Testing Library, Context API, Jest, e Redux] (React, React Testing Library, Context API, Jest, e Redux)
+- 📄 Eu tenho experiência em [React, React Testing Library, Context API, Jest, e Redux]
 
-<h3 align = "left"> Connect with me: </ h3>
-<p align = "left">
-<a href="https://linkedin.com/in/anderson-pedrosa-carlos" target="blank"> <img align = "center" src = "https: / /raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg "alt =" anderson-pedrosa-carlos "altura =" 30 "largura = "40" /> </a>
+<h2 align="center"><strong>Linguagens e Ferramentas</strong></h2>
+
+<p align="center">
+   <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank">
+   <code><img heigth="50" width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"></code> 
+  </a>
+  <a href="https://redux.js.org/" target="_blank">
+   <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code> 
+  </a>
+  <a href="https://devdocs.io/javascript/" target="_blank">
+   <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+   <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code> 
+  </a>  
+  <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/" target="_blank">
+   <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code> 
+  </a>
+  <a href="https://dev.mysql.com/doc/" target="_blank">
+   <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code> 
+  </a>
+  <a href="https://jestjs.io/docs/getting-started" target="_blank">
+   <code><img height="50px" width="50" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png"></code>
+  </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href= 
-<h3 align = "left"> Suporte: </h3>
-<p> <a href="https://www.buymeacoffee.com/AndersonPedrosa35"> <img align = "left" src = "https: // cdn .buymeacoffee.com / buttons / v2 / default-yellow.png "height =" 50 "width =" 210 "alt =" AndersonPedrosa35 "/> </a> </p> <br> <br>
-
-<p> <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=andersonpedrosa35&show_icons=true&locale=en" alt = "andersonpedrosa35" /> </p>
+  
+  <br>
+  
+  <h3 align="center">Entre em Contato :mailbox:</h3>
+  
+  <br>
+  
+  <p align="center">
+  <a href="https://www.linkedin.com/in/anderson-pedrosa-carlos/" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" width="50px">
+  </a>
+  <a href="mailto:anderson.loiro222@gmail.com" target="_blank">
+  <img src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="Gmail"  width="50" />
+</a>
+ </p>
+  </p>
+  
+  <br>
+  <p>Direitos reservados Anderson Pedrosa</p>
