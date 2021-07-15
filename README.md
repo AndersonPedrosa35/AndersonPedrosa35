@@ -1,5 +1,5 @@
 <h1 align = "center"> Olá 👋, Eu sou Anderson Pedrosa </h1>
-<h3 align = "center"> Apaixonado por React e Redux </h3>
+<h3 align = "center"> Apaixonado por React e Context API </h3>
 
 - Estou procurando emprego <strong>no momento</strong> (https://www.linkedin.com/in/anderson-pedrosa-carlos/)
 
