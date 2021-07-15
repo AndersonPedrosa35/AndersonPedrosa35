@@ -1,7 +1,7 @@
 <h1 align = "center"> Olá 👋, Eu sou Anderson Pedrosa </h1>
 <h3 align = "center"> Apaixonado por React e Redux </h3>
 
-- Estou procurando emprego [no momento] (https: // www .linkedin.com / in / anderson-pedrosa-carlos /)
+- Estou procurando emprego <h3>no momento</h3> (https://www.linkedin.com/in/anderson-pedrosa-carlos/)
 
 - 🌱 Eu estou estudando ** Back-end e NEXT.js na Trybe**
 
@@ -9,11 +9,9 @@
 
 - 👨‍💻 Meus repositórios (https://github.com/AndersonPedrosa35?tab=repositories)
 
-- Tenho conhecimento em ** React, Redux e Context API **
+- Tenho conhecimento em ** MySQL, Next.js,  **
 
-- 📫 Fale comigo por aqui: ** https: //www.linkedin.com/in/anderson-pedrosa-carlos / **
-
-- 📄 Eu tenho experiência em [React, React Testing Library, Context API, Jest, e Redux]
+- 📄 Eu tenho experiência em React, React Testing Library, Context API, Jest, e Redux
 
 <h2 align="center"><strong>Linguagens e Ferramentas</strong></h2>
 
