@@ -1,19 +1,26 @@
 <h1 align = "center"> Olá 👋, Eu sou Anderson Pedrosa </h1>
-<h3 align = "center"> Apaixonado por React e Context API </h3>
+<h3 align = "center"> Middle Full Stack Developer </h3>
 
-- Trabalho na empresa Beightone como Middle Front End Developer
+ Tenho alguns anos de experiência na área de Desenvolvimento, resolvendo os mais diversos problemas.
+ 
+- Trabalho na empresa Deco.cx como Full Stack Developer e na empresa IALUI, ambos no modelo Freelancer, estou na parte de criação de ** ecommerces de alta performance **
+- Na Deco > Preact, Fresh, Deno e Tailwind > ** JUNTOS PODEM CRIAR OS ECOMMERCES MAIS RÁPIDOS DO MUNDO **
+- Na IALUI > Vite, React, ReactStrap, Node.js, PostGress
 
-- 🌱 Eu estou estudando ** Back-end e NEXT.js na Trybe**
+- Ja trabalhei na Decathlon, BeightOne e Trybe, utilizando as seguintes ferramentas:
+- Next.js e React
+- Context.API
+- Redux
+- Tailwind
+- Graphql
+- Node.js
+- MySQL, PostGress
+- Sass
+- Gatsby
+- Vtex
+- HTML E CSS
 
-- 🤝 Eu trabalhei em grupo no [App de Receitas] (https://github.com/tryber/sd-010-b-project-recipes-app/tree/main-group-7)
-
-- 👨‍💻 Meus repositórios (https://github.com/AndersonPedrosa35?tab=repositories)
-
-- Tenho conhecimento em ** MySQL, Next.js,  **
-
-- 📄 Eu tenho experiência em React, React Testing Library, Context API, Jest, e Redux
-
-<h2 align="center"><strong>Linguagens e Ferramentas</strong></h2>
+<h2 align="center"><strong>Algumas das Linguagens e Ferramentas que eu conheço</strong></h2>
 
 <p align="center">
    <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank">
